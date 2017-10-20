@@ -14,9 +14,9 @@ import (
 
 	"github.com/hanwen/go-fuse/fuse/nodefs"
 	"github.com/hanwen/go-fuse/fuse/pathfs"
-	"github.com/linuxerwang/gobazel/conf"
-	"github.com/linuxerwang/gobazel/exec"
-	"github.com/linuxerwang/gobazel/gopathfs"
+	"github.com/excavador/gobazel/conf"
+	"github.com/excavador/gobazel/exec"
+	"github.com/excavador/gobazel/gopathfs"
 )
 
 const (

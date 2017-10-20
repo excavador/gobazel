@@ -8,8 +8,8 @@ import (
 
 	"github.com/hanwen/go-fuse/fuse"
 	"github.com/hanwen/go-fuse/fuse/pathfs"
-	"github.com/linuxerwang/gobazel/conf"
-	"github.com/linuxerwang/gobazel/exec"
+	"github.com/excavador/gobazel/conf"
+	"github.com/excavador/gobazel/exec"
 	"github.com/rjeczalik/notify"
 )
 

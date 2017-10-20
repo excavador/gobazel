@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 	"strings"
 
-	"github.com/linuxerwang/gobazel/conf"
+	"github.com/excavador/gobazel/conf"
 )
 
 // RunGoInstall executes the "go install" command on the given Go package.
